@@ -1,2 +1,4 @@
 markdown: kramdown
 url: www.parulbhargava.com
+
+theme: jekyll-theme-slate
