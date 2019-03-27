@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 ---
 ## Welcome to GitHub Pages
